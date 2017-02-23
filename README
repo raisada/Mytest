@@ -1,0 +1,11 @@
+git init myTest
+
+Ein repository auschecken
+
+git clone /pfad/zum/repository
+
+Falls ein entferntes Repository
+
+git clone benutzername@host: pfad/zum/repository
+
+
